@@ -1,24 +1,5 @@
-# README
+## The 1st *Odin on Rails* Rails [Project](https://www.theodinproject.com/courses/web-development-101/lessons/calculator)
+This project is meant to demonstrate basic competence and navigation of a Rails project, while being guided through instructions in a tutorial.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Outline
+This web application will feature a very simple article and comment posting system. A visitor should be able to view and manage content through RESTful API calls backed by a MVC system provided by Rails.
